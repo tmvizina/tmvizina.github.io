@@ -17,6 +17,10 @@ h2{
     font-size: 72px;
 }
 
+.mediumFont{
+    font-size:48
+}
+
 /* Ids are meant to be used only ONCE per page*/
 #ImageBorder {
     border: 15px solid blue;
