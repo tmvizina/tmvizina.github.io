@@ -1,0 +1,34 @@
+
+p{
+    color:darkmagenta;
+}
+
+body{
+    background-color: lightsteelblue;
+}
+
+h2{
+    font-weight: bold;
+}
+
+
+ /*Classes are meant to be reused as many time as needed*/
+.bigFont{
+    font-size: 72px;
+}
+
+/* Ids are meant to be used only ONCE per page*/
+#ImageBorder {
+    border: 15px solid blue;
+}
+
+#HomePageWidth{
+    width: 1000px;
+}
+
+/* This will center and alement with set width horizontally */
+
+.centerElement {
+    margin-right:auto;
+    margin-left:auto;
+}
